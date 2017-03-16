@@ -1,0 +1,2 @@
+# lock
+global lock server
